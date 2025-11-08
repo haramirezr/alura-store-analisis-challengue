@@ -72,4 +72,3 @@ Google Colab / Visual Studio Code
 
 ✅ Proyecto completado y subido a GitHub.
 🔄 Pendiente de revisión por parte del equipo de Alura (Challenge 1 – Data Science LATAM).
-📂 Carpeta outputs/graficos/ contiene las visualizaciones generadas automáticamente.
